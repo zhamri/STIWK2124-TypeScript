@@ -12,6 +12,7 @@
 1. https://www.typescriptlang.org/
 1. https://en.wikipedia.org/wiki/TypeScript
 1. https://www.w3schools.com/typescript/
+1. https://www.tutorialspoint.com/typescript/index.htm
 
 ## Recommended Code Editor
 1. https://code.visualstudio.com/
